@@ -1,0 +1,30 @@
+{
+  "name": "sunwin-ultimate-predictor",
+  "version": "1.0.0",
+  "description": "Sunwin Ultimate AI Predictor with 500+ algorithms for Tài/Xỉu prediction",
+  "main": "hihi.js",
+  "scripts": {
+    "start": "node hihi.js",
+    "dev": "nodemon hihi.js"
+  },
+  "keywords": [
+    "prediction",
+    "ai",
+    "tai-xiu",
+    "sunwin",
+    "markov",
+    "machine-learning",
+    "dice-prediction"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
